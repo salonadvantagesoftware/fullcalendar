@@ -1,5 +1,5 @@
 {
-  "name": "@fullcalendar/interaction",
+  "name": "@salonadvantagesoftware/interaction",
   "version": "5.5.0",
   "title": "FullCalendar Interaction Plugin",
   "description": "Provides functionality for event drag-n-drop, resizing, dateClick, and selectable actions",
@@ -17,8 +17,8 @@
   "bugs": "https://fullcalendar.io/reporting-bugs",
   "repository": {
     "type": "git",
-    "url": "https://github.com/fullcalendar/fullcalendar.git",
-    "homepage": "https://github.com/fullcalendar/fullcalendar"
+    "url": "https://github.com/salonadvantagesoftware/fullcalendar.git",
+    "homepage": "https://github.com/salonadvantagesoftware/fullcalendar"
   },
   "license": "MIT",
   "author": {
